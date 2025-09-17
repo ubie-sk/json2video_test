@@ -1,0 +1,88 @@
+{
+  "id": "movie",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "scene003",
+      "duration": -1,
+      "elements": [
+        {
+          "id": "img3",
+          "type": "image",
+          "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "aud3",
+          "type": "audio",
+          "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/003_ubie.mp3",
+          "volume": 1
+        },
+        {
+          "id": "title3",
+          "type": "text",
+          "style": "001",
+          "text": "自己紹介",
+          "position": "custom",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 140,
+          "settings": {
+            "font-family": "Noto Sans JP",
+            "font-weight": "700",
+            "font-size": "5vw",
+            "text-align": "center",
+            "vertical-align": "center",
+            "color": "#000000",
+            "text-shadow": "none"
+          }
+        },
+        {
+          "id": "label3",
+          "type": "text",
+          "style": "001",
+          "text": "ごあいさつ",
+          "position": "custom",
+          "x": 30,
+          "y": 140,
+          "width": 1000,
+          "height": 200,
+          "settings": {
+            "font-family": "Noto Sans JP",
+            "font-weight": "700",
+            "font-size": "5.5vw",
+            "text-align": "left",
+            "vertical-align": "center",
+            "color": "#000000",
+            "text-shadow": "none"
+          }
+        },
+        {
+          "id": "body3",
+          "type": "text",
+          "style": "004",
+          "text": "月に1,300万人近くの、人の健康や病気に寄り添いサポートしているユビーだよ。",
+          "position": "custom",
+          "x": 260,
+          "y": 380,
+          "width": 1400,
+          "height": 400,
+          "settings": {
+            "font-family": "Noto Sans JP",
+            "font-weight": "700",
+            "font-size": "4.8vw",
+            "text-align": "center",
+            "vertical-align": "center",
+            "color": "#DA3170",
+            "text-shadow": " -2px -2px 0 #FFF, 2px -2px 0 #FFF, -2px 2px 0 #FFF, 2px 2px 0 #FFF, -2px 0 0 #FFF, 2px 0 0 #FFF, 0 -2px 0 #FFF, 0 2px 0 #FFF"
+          }
+        }
+      ]
+    }
+  ],
+  "elements": []
+}
