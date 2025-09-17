@@ -9,22 +9,22 @@
       "duration": -1,
       "elements": [
         {
-          "id": "img2",
+          "id": "img002",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud2",
+          "id": "aud002",
           "type": "audio",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/002_ubie.mp3",
           "volume": 1
         },
         {
-          "id": "title2",
+          "id": "title002",
           "type": "text",
-          "style": "003",
+          "style": "001",
           "text": "自己紹介",
           "position": "custom",
           "x": 0,
@@ -42,7 +42,7 @@
           }
         },
         {
-          "id": "label2",
+          "id": "label002",
           "type": "text",
           "style": "003",
           "text": "ごあいさつ",
@@ -56,13 +56,14 @@
             "font-weight": "700",
             "font-size": "5.5vw",
             "text-align": "left",
-            "vertical-align": "center",
+            "vertical-position": "center",
+            "horizontal-position": "left",
             "color": "#000000",
             "text-shadow": "none"
           }
         },
         {
-          "id": "body2",
+          "id": "body002",
           "type": "text",
           "style": "004",
           "text": "みんなこんにちは！",

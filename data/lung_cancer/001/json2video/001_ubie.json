@@ -9,22 +9,22 @@
       "duration": -1,
       "elements": [
         {
-          "id": "img1",
+          "id": "img001",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud1",
+          "id": "aud001",
           "type": "audio",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/001_ubie.mp3",
           "volume": 1
         },
         {
-          "id": "title1",
+          "id": "title001",
           "type": "text",
-          "style": "001",
+          "style": "003",
           "text": "イントロ",
           "position": "custom",
           "x": 0,
@@ -42,9 +42,9 @@
           }
         },
         {
-          "id": "label1",
+          "id": "label001",
           "type": "text",
-          "style": "001",
+          "style": "003",
           "text": "肺がんの疑問",
           "position": "custom",
           "x": 30,
@@ -56,13 +56,14 @@
             "font-weight": "700",
             "font-size": "5.5vw",
             "text-align": "left",
-            "vertical-align": "center",
+            "vertical-position": "center",
+            "horizontal-position": "left",
             "color": "#000000",
             "text-shadow": "none"
           }
         },
         {
-          "id": "body1",
+          "id": "body001",
           "type": "text",
           "style": "004",
           "text": "じゃあ、どのステージなら完治する可能性があるんだろう？今日はその辺りも専門の先生に聞いてみよう！",

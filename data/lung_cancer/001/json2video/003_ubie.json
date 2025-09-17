@@ -9,20 +9,20 @@
       "duration": -1,
       "elements": [
         {
-          "id": "img3",
+          "id": "img003",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud3",
+          "id": "aud003",
           "type": "audio",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/003_ubie.mp3",
           "volume": 1
         },
         {
-          "id": "title3",
+          "id": "title003",
           "type": "text",
           "style": "001",
           "text": "自己紹介",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "id": "label3",
+          "id": "label003",
           "type": "text",
           "style": "001",
           "text": "ごあいさつ",
@@ -56,13 +56,14 @@
             "font-weight": "700",
             "font-size": "5.5vw",
             "text-align": "left",
-            "vertical-align": "center",
+            "vertical-position": "center",
+            "horizontal-position": "left",
             "color": "#000000",
             "text-shadow": "none"
           }
         },
         {
-          "id": "body3",
+          "id": "body003",
           "type": "text",
           "style": "004",
           "text": "月に1,300万人近くの、人の健康や病気に寄り添いサポートしているユビーだよ。",

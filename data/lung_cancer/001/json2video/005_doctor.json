@@ -9,20 +9,20 @@
       "duration": -1,
       "elements": [
         {
-          "id": "img5",
+          "id": "img005",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud5",
+          "id": "aud005",
           "type": "audio",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/005_doctor.mp3",
           "volume": 1
         },
         {
-          "id": "title5",
+          "id": "title005",
           "type": "text",
           "style": "001",
           "text": "自己紹介",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "id": "label5",
+          "id": "label005",
           "type": "text",
           "style": "001",
           "text": "ごあいさつ",
@@ -56,13 +56,14 @@
             "font-weight": "700",
             "font-size": "5.5vw",
             "text-align": "left",
-            "vertical-align": "center",
+            "vertical-position": "center",
+            "horizontal-position": "left",
             "color": "#000000",
             "text-shadow": "none"
           }
         },
         {
-          "id": "body5",
+          "id": "body005",
           "type": "text",
           "style": "003",
           "text": "『ステージごとの生存率と完治の可能性』そして『転移』について順番に解説していきます。",

@@ -9,22 +9,22 @@
       "duration": -1,
       "elements": [
         {
-          "id": "img4",
+          "id": "img004",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud4",
+          "id": "aud004",
           "type": "audio",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/004_doctor.mp3",
           "volume": 1
         },
         {
-          "id": "title4",
+          "id": "title004",
           "type": "text",
-          "style": "003",
+          "style": "001",
           "text": "自己紹介",
           "position": "custom",
           "x": 0,
@@ -42,9 +42,9 @@
           }
         },
         {
-          "id": "label4",
+          "id": "label004",
           "type": "text",
-          "style": "003",
+          "style": "001",
           "text": "ごあいさつ",
           "position": "custom",
           "x": 30,
@@ -56,13 +56,14 @@
             "font-weight": "700",
             "font-size": "5.5vw",
             "text-align": "left",
-            "vertical-align": "center",
+            "vertical-position": "center",
+            "horizontal-position": "left",
             "color": "#000000",
             "text-shadow": "none"
           }
         },
         {
-          "id": "body4",
+          "id": "body004",
           "type": "text",
           "style": "003",
           "text": "この動画では、『肺がんとはどんな病気か』という基本から、『肺がんの2つの主要なタイプ』",
