@@ -5,24 +5,24 @@
   "fps": 30,
   "scenes": [
     {
-      "id": "scene004",
+      "id": "scene003",
       "duration": -1,
       "elements": [
         {
-          "id": "img004",
+          "id": "img003",
           "type": "image",
           "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/assets/background.png",
           "width": 1920,
           "height": 1080
         },
         {
-          "id": "aud004",
+          "id": "aud003",
           "type": "audio",
-          "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/004_doctor.mp3",
+          "src": "https://github.com/ubie-sk/json2video_test/raw/refs/heads/main/data/lung_cancer/001/audio/003_doctor.mp3",
           "volume": 1
         },
         {
-          "id": "title004",
+          "id": "title003",
           "type": "text",
           "style": "001",
           "text": "自己紹介",
@@ -42,7 +42,7 @@
           }
         },
         {
-          "id": "label004",
+          "id": "label003",
           "type": "text",
           "style": "001",
           "text": "ごあいさつ",
@@ -63,10 +63,10 @@
           }
         },
         {
-          "id": "body004",
+          "id": "body003",
           "type": "text",
           "style": "003",
-          "text": "この動画では、『肺がんとは』という基本から、『肺がんの2つの主要なタイプ』",
+          "text": "紹介ありがとう、ユビー。",
           "position": "custom",
           "x": 260,
           "y": 360,
